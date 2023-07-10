@@ -1,0 +1,14 @@
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\bin\Debug\ListGenericTodoUygulama.exe.config
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\bin\Debug\ListGenericTodoUygulama.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\bin\Debug\ListGenericTodoUygulama.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.Form1.resources
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.Properties.Resources.resources
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.sistemGiris.resources
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.csproj.GenerateResource.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.yeniKayit.resources
+C:\Users\basal\OneDrive\Desktop\c# dersler\TelefonRehberiUygulamasiV1\ListGenericTodoUygulama\ListGenericTodoUygulama\obj\Debug\ListGenericTodoUygulama.kayitListe.resources
